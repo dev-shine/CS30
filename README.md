@@ -34,5 +34,9 @@ cd react
 yarn install
 yarn start
 ```
-
+```sh
+# TimeLine
+Task1 : 9.20 / 8.50 - 9.20 / 10
+Task2 : 9.21 / 10.30 - 9.21 / 11.20
+```
 Go to url: http://localhost:3000
